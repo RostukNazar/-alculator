@@ -83,7 +83,7 @@ int getnamber(char ch)
 int main()
 {
 	setlocale(LC_ALL, "Ukraine");
-	cout << "  Привіт це програма калькулятор\n  Ведіть вираз" << endl;
+	cout << "  Привіт це програма калькулятор \n  Ведіть вираз" << endl;
 	char ch;
 	double value;
 	bool flag = 1;
